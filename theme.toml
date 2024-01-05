@@ -7,8 +7,8 @@ licenselink = "https://github.com/GabrielDillenburg/gabrieldillenburg-blog-theme
 description = "Card-style Hugo theme designed for bloggers"
 
 ## reference to the Jimmy!
-homepage = "https://github.com/CaiJimmy/hugo-theme-stack"
-demosite = "https://demo.stack.jimmycai.com"
+homepage = "https://github.com/GabrielDillenburg/gabrieldillenburg-blog-theme"
+demosite = "https://gabrieldillenburg.com"
 
 tags = ["blog", "responsive", "clean", "light", "dark", "personal"]
 
