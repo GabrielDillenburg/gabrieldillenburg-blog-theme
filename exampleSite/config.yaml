@@ -80,7 +80,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname:
+            shortname: https-gabrieldillenburg-com
             apiUrl:
             apiKey:
             admin:
